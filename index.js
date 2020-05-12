@@ -9,7 +9,6 @@ function createEmployeeRecord(arr){
         timeInEvents: [],
         timeOutEvents: []
     }
-    // console.log(obj)
     return obj
 }
 
